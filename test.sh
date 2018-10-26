@@ -1,1 +1,1 @@
-echo "Hello World from GitHub"
+echo "Hello World from GitHub.com"
